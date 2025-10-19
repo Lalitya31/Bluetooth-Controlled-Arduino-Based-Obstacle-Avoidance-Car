@@ -39,11 +39,7 @@ The Bluetooth module allows manual override and control via a mobile app.
 
 Closed-loop feedback ensures real-time obstacle avoidance and smooth navigation.
 
-📷 Circuit Diagram
 
-(Add your circuit image in /Circuit_Diagram folder and embed below)
-
-![Circuit Diagram](./Circuit_Diagram/circuit_diagram.png)
 
 🧠 Concepts Applied
 
