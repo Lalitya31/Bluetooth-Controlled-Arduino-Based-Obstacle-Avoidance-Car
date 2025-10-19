@@ -1,11 +1,11 @@
-🚗 Bluetooth Controlled Arduino-Based Obstacle Avoidance Car
-Overview
+**🚗 Bluetooth Controlled Arduino-Based Obstacle Avoidance Car
+Overview**
 
 This project integrates Bluetooth communication, ultrasonic and infrared sensors, and Arduino Uno to create a semi-autonomous car capable of detecting and avoiding obstacles in real time. It can also be manually controlled via a smartphone using Bluetooth (HC-05 module).
 
 Developed by Team Tesla, this project merges physics concepts and embedded systems engineering to demonstrate the principles of wave propagation, motion, and automation.
 
-🎯 Features
+**🎯 Features**
 
 Autonomous obstacle detection and avoidance
 
@@ -19,7 +19,7 @@ Real-time decision-making using Arduino Uno
 
 Servo-mounted ultrasonic sensor for wide-angle detection
 
-⚙️ Components Used
+**⚙️ Components Used**
 Component	Function
 Arduino Uno R3	Central controller processing sensor input
 HC-SR04 Ultrasonic Sensor	Measures distance to obstacles
@@ -29,7 +29,7 @@ HC-05 Bluetooth Module	Enables wireless smartphone control
 Servo Motor	Rotates ultrasonic sensor
 Chassis & DC Motors	Provides structure and motion
 Power Supply	Powers all components
-🧩 Working Principle
+**🧩 Working Principle**
 
 The ultrasonic sensor emits sound waves; upon reflection, it calculates distance to obstacles.
 
@@ -41,7 +41,7 @@ Closed-loop feedback ensures real-time obstacle avoidance and smooth navigation.
 
 
 
-🧠 Concepts Applied
+**🧠 Concepts Applied**
 
 Wave propagation & reflection
 
@@ -53,8 +53,8 @@ Embedded systems and control loops
 
 Wireless communication (Bluetooth protocol)
 
-🛠️ Tools & Technologies
-
+**🛠️ Tools & Technologies
+**
 Arduino IDE
 
 C/C++ (Embedded Programming)
@@ -65,13 +65,13 @@ Ultrasonic & IR Sensors
 
 Robotics & IoT Concepts
 
-👩‍💻 Team Tesla
+**👩‍💻 Team Tesla**
 
 Archit Khandelwal
 
 Mihir Bhati
 
-Lalitya Dodla
+**Lalitya Dodla**
 
 Arya Panwar
 
